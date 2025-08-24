@@ -1,0 +1,28 @@
+# Ignorar arquivos e pastas comuns
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do sistema
+node_modules/
+dist/
+.env
+.vscode/
+__pycache__/
+*.pyc
+
+# Imagens e arquivos grandes
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Outros exemplos
+.idea/
+*.zip
+*.rar
