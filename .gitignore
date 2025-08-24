@@ -16,13 +16,15 @@ __pycache__/
 *.pyc
 
 # Imagens e arquivos grandes
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
 
 # Outros exemplos
 .idea/
 *.zip
 *.rar
+index-teste.html
+style-teste.css
