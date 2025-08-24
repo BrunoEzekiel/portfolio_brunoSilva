@@ -7,6 +7,7 @@ Este é o portfólio profissional de Bruno Silva, desenvolvido para apresentar p
 ## Demonstração
 
 Acesse o portfólio online: [Link do Portfólio](https://brunoezekiel.github.io/portfolio_brunoSilva/) deploy no github.
+
 Acesse o portfólio online: [Link do Portfólio](https://brunoezekiel.github.io/portfolio_brunoSilva/) deploy no vercel.
 
 ## Funcionalidades
@@ -37,4 +38,5 @@ Consulte o arquivo `lista_melhorias.md` para sugestões e ideias de aprimorament
 ---
 
 Sinta-se à vontade para contribuir ou sugerir melhorias!
+
 
